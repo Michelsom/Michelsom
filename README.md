@@ -4,7 +4,8 @@
 
 <div>
   <h4>Mobile Developer | React Native | TypeScript</h4>
-  <p>Desenvolvedor Front End, atualmente trabalhando com react native, no desenvolvimento de apps para dispositivos android e Ios.<p>
+  <p>Application development for android and ios devices using TypeScript and React Native.<p>
+  <p> https://play.google.com/store/apps/details?id=app.pigz.mart&hl=pt_BR&gl=US </p>
 <div>
 
 <h2>My Social Networks</h2>
@@ -16,15 +17,25 @@
 <h2>Github Stats and Most used languages</h2>
 
 <div align="center">
+  
  <a href="https://github.com/Michelsom">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelsom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=24"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelsom&layout=compact&langs_count=7&theme=dracula&border_radius=24"/>
 </div>
 
- <h2> Skills</h2>
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="symfony" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-</div>
+ <h2> Skills</h2>      
+  
+  <div>
+<img align="center" alt="React Native" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+ 
+<img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">                                
+<img align="center" alt="TypeScript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+ 
+<img align="center" alt="Apple" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">  
+        
+<img align="center" alt="Android" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+    
+<img align="center" alt="css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                                                                                                                      
+<img align="center" alt="Redux" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+    
+  </div>   
