@@ -1,6 +1,4 @@
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
-
 👋 Hi, I’m Michelsom
 
 <h2>About me</h2>
